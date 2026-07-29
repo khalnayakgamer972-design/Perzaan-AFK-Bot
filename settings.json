@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "OG_Minecraft_SMP.aternos.me",
-    "port": 92593,
+    "port": 0,
     "version": "1.21.1"
   },
   "position": {
